@@ -41,7 +41,6 @@ streamlit run main.py
 ## ⚠️ Observações
 
 * É necessário configurar uma **API Key da OpenAI** para ativar as respostas da IA
-* Sem a API configurada, o projeto funciona como estrutura de chatbot (frontend + lógica básica)
 
 ## 📚 Objetivo
 
